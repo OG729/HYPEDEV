@@ -1,4 +1,5 @@
 Country,Code,Product,Cost,Quantity
+Nigeria,SK9123,Jordan 1,5000,100
 China,SKU90000,Jordan 1,3200,50
 Vietnam,SKU63221,Blazer,1700,19
 United States,SKU29077,Cortez,970,60
